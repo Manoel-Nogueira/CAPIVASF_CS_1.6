@@ -1,0 +1,83 @@
+// Command Menu definition
+// 
+// Basic Format:
+//      "<Bound Key>" "<Button Text>" "<Command sent to server>"
+//
+// 
+//
+//
+// Buttons can also open up submenus, as follows:
+// {
+//  "Some More Options",
+//  {
+//      ...
+//  }
+// }
+//
+//
+// Buttons preceded with "CUSTOM" are handled in special ways. They can only be moved
+// around or deleted.
+//
+//
+// Limitations:
+//      Maximum of 40 menus.
+//      Maximum of 100 buttons per menu.
+
+//--------------------------------------------------------
+// Everything below here is editable
+
+"1" "#Cstrike_Bot_Menu"
+{
+    "1" "#Cstrike_Bot_HowMuch"
+    {
+      "1" "5x5"                     "bot_quota 9"
+      "2" "6x6"                     "bot_quota 11"
+      "3" "7x7"                     "bot_quota 13"
+      "4" "8x8"                     "bot_quota 15"
+      "5" "9x9"                     "bot_quota 17"
+      "6" "10x10"                   "bot_quota 19"
+    }
+    "2" "#Cstrike_Bot_Chatter"
+    {
+      "1" "#Cstrike_Bot_chatter_Off"        "bot_chatter off"
+      "2" "#Cstrike_Bot_chatter_Radio"      "bot_chatter radio"
+      "3" "#Cstrike_Bot_chatter_Minimal"    "bot_chatter minimal"
+      "4" "#Cstrike_Bot_chatter_Normal"     "bot_chatter normal"
+    }
+    "3" "#Cstrike_Bot_IncludeBots"
+    {
+     "1" "#Cstrike_Bot_QuicklyAdd"               "bot_add"
+     "2" "#Cstrike_Bot_Difficulty"
+        {
+               "1" "#Cstrike_Bot_Difficulty0"                "bot_difficulty 0"
+               "2" "#Cstrike_Bot_Difficulty1"                "bot_difficulty 1"
+               "3" "#Cstrike_Bot_Difficulty2"                "bot_difficulty 2"
+               "5" "#Cstrike_Bot_Difficulty3"                "bot_difficulty 3"
+        }
+     "3" "#Cstrike_Bot_AddToTeam_menu"
+        {
+          "1" "#Cstrike_Bot_AddToTheT"                      "bot_add_t"
+          "2" "#Cstrike_Bot_AddToTheCT"             "bot_add_ct"
+        }
+     "4" "#CStrike_Bot_AllowWeapon"
+        {
+          "1" "#Cstrike_Bot_UseKnives"                  "bot_knives_only"
+          "2" "#CStrike_Bot_UsePistols"                 "bot_pistols_only"
+          "3" "#CStrike_Bot_UseShotguns"                "bot_knives_only;bot_allow_shotguns 1"
+          "4" "#CStrike_Bot_UseSniper"                  "bot_snipers_only"
+          "5" "#Cstrike_Bot_UseAllWeapons"               "bot_all_weapons"
+        }
+    }
+    "4" "#Cstrike_Bot_KillAll"                             "bot_kill"
+    "5" "#Cstrike_Bot_KickAll"                             "bot_kick"
+}
+"2" "#Cstrike_HELP"
+{
+    CUSTOM      "1" "#Cstrike_Map_Desc" "!MAPBRIEFING"
+    "2" "#Cstrike_Time_Left"        "timeleft"
+    "3" "#Cstrike_Adjust_Crosshair"     "adjust_crosshair"
+    "4" "#Cstrike_Use_Left_Hand"        "cl_righthand 0"
+    "5" "#Cstrike_Use_Right_Hand"       "cl_righthand 1"
+}
+"3" "#Cstrike_CHANGE_TEAM"  "chooseteam"
+"4" "#Cstrike_DROP_CURRENT_ITEM"    "drop"

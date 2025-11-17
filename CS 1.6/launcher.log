@@ -1,0 +1,106 @@
+2025-11-17 16:36:36,026 INFO [launcher] -----------------------------------------------
+2025-11-17 16:36:36,028 INFO [launcher] Start "cs.exe"
+2025-11-17 16:36:36,028 INFO [launcher] Version: 2.3.2
+2025-11-17 16:36:36,028 INFO [launcher] Finishing launcher update
+2025-11-17 16:36:36,028 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-17 16:36:36,040 INFO [launcher] Branch: csrevo
+2025-11-17 16:36:36,341 INFO [launcher] Run updater
+2025-11-17 16:36:36,426 INFO [launcher] Restoring from backup
+2025-11-17 16:36:36,426 INFO [launcher]   nothing to do
+2025-11-17 16:36:36,427 INFO [launcher] Clearing backup folder
+2025-11-17 16:36:36,427 INFO [launcher] Requesting file list from server
+2025-11-17 16:36:36,983 INFO [launcher] Gathering files that need to be updated
+2025-11-17 16:36:44,476 INFO [launcher]   files to update:
+2025-11-17 16:36:44,476 INFO [launcher]   FileSystem_Proxy.dll
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\TrackerScheme.res
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\gfx\shell\kb_act.lst
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\cl_dlls\GameUI.dll
+2025-11-17 16:36:44,476 INFO [launcher]   cs_new.exe
+2025-11-17 16:36:44,476 INFO [launcher]   nitro_api2.dll
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\cl_dlls\client_mini.dll
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\CreateMultiplayerGameBotPage.res
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\gfx\shell\kb_def.lst
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\OptionsSubVideo.res
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\gfx\vgui2\logo_steam.tga
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\CreateMultiplayerGameServerPage.res
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\OptionsSubMiscellaneous.res
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\OptionsSubMultiplayer.res
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\VideoAvancedDialog.res
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\cstrike_english.txt
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\nextclient_english.txt
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\cstrike_russian.txt
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\cstrike_spanish.txt
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\cstrike_ukrainian.txt
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\nextclient_russian.txt
+2025-11-17 16:36:44,476 INFO [launcher]   valve\resource\gameui_russian.txt
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\nextclient_ukrainian.txt
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\schemes\TrackerScheme_ClassicPlus.res
+2025-11-17 16:36:44,476 INFO [launcher]   cstrike\resource\schemes\TrackerScheme_Source.res
+2025-11-17 16:36:44,477 INFO [launcher]   platform\servers\InternetGamesPage.res
+2025-11-17 16:36:44,477 INFO [launcher]   next_engine_mini.dll
+2025-11-17 16:36:44,477 INFO [launcher]   steam_api.dll
+2025-11-17 16:36:44,477 INFO [launcher]   next_lib.dll
+2025-11-17 16:36:44,477 INFO [launcher]   platform\servers\InternetGamesPage_Filters.res
+2025-11-17 16:36:44,477 INFO [launcher]   valve\resource\gameui_spanish.txt
+2025-11-17 16:36:44,477 INFO [launcher]   valve\resource\OptionsSubMouse.res
+2025-11-17 16:36:44,477 INFO [launcher]   valve\resource\OptionsSubVideo.res
+2025-11-17 16:36:44,477 INFO [launcher]   valve\resource\OptionsSubVoice.res
+2025-11-17 16:36:44,477 INFO [launcher]   valve\resource\gameui_english.txt
+2025-11-17 16:36:44,477 INFO [launcher]   valve\resource\gameui_ukrainian.txt
+2025-11-17 16:36:44,477 INFO [launcher]   valve\resource\valve_spanish.txt
+2025-11-17 16:36:44,477 INFO [launcher]   valve\resource\valve_ukrainian.txt
+2025-11-17 16:36:44,477 INFO [launcher] Creating a backup
+2025-11-17 16:36:45,008 INFO [launcher] Opening files to install
+2025-11-17 16:36:45,066 INFO [launcher] Downloading an update
+2025-11-17 16:37:02,024 INFO [launcher] Installing an update
+2025-11-17 16:37:02,048 INFO [launcher] Clearing backup folder
+2025-11-17 16:37:02,125 INFO [launcher] Updater done: RunNewGame
+2025-11-17 16:37:05,468 INFO [launcher] Exit
+2025-11-17 16:37:05,527 INFO [launcher] -----------------------------------------------
+2025-11-17 16:37:05,528 INFO [launcher] Start "cs_new.exe"
+2025-11-17 16:37:05,528 INFO [launcher] Version: 2.3.6
+2025-11-17 16:37:05,528 INFO [launcher] Finishing launcher update
+2025-11-17 16:37:05,558 INFO [launcher] Finishing launcher update: done
+2025-11-17 16:37:05,559 INFO [launcher] Branch: csrevo
+2025-11-17 16:37:05,611 INFO [launcher] Start the Updater GUI App
+2025-11-17 16:37:05,655 INFO [launcher] Requesting remote config from server
+2025-11-17 16:37:06,023 INFO [launcher] Updater GUI App result: RunGame
+2025-11-17 16:37:07,015 INFO [launcher] IEngineAPI::Run
+2025-11-17 16:37:37,385 INFO [launcher] IEngineAPI::Run done
+2025-11-17 16:37:41,600 INFO [launcher] Exit
+2025-11-17 16:38:03,027 INFO [launcher] -----------------------------------------------
+2025-11-17 16:38:03,028 INFO [launcher] Start "cs.exe"
+2025-11-17 16:38:03,028 INFO [launcher] Version: 2.3.6
+2025-11-17 16:38:03,029 INFO [launcher] Finishing launcher update
+2025-11-17 16:38:03,030 INFO [launcher] Finishing launcher update: done
+2025-11-17 16:38:03,031 INFO [launcher] Branch: csrevo
+2025-11-17 16:38:03,082 INFO [launcher] Start the Updater GUI App
+2025-11-17 16:38:03,123 INFO [launcher] Requesting remote config from server
+2025-11-17 16:38:03,604 INFO [launcher] Restoring from backup
+2025-11-17 16:38:03,604 INFO [launcher]   nothing to do
+2025-11-17 16:38:03,604 INFO [launcher] Clearing backup folder
+2025-11-17 16:38:03,604 INFO [launcher] Requesting file list from server
+2025-11-17 16:38:03,968 INFO [launcher] Gathering files that need to be updated
+2025-11-17 16:38:04,116 INFO [launcher]   nothing to update
+2025-11-17 16:38:04,166 INFO [launcher] Updater GUI App result: RunGame
+2025-11-17 16:38:04,314 INFO [launcher] IEngineAPI::Run
+2025-11-17 16:41:21,857 INFO [launcher] IEngineAPI::Run done
+2025-11-17 16:41:25,274 INFO [launcher] Exit
+2025-11-17 16:49:15,342 INFO [launcher] -----------------------------------------------
+2025-11-17 16:49:15,344 INFO [launcher] Start "cs.exe"
+2025-11-17 16:49:15,344 INFO [launcher] Version: 2.3.6
+2025-11-17 16:49:15,344 INFO [launcher] Finishing launcher update
+2025-11-17 16:49:15,344 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-17 16:49:15,345 INFO [launcher] Branch: csrevo
+2025-11-17 16:49:15,401 INFO [launcher] Start the Updater GUI App
+2025-11-17 16:49:15,408 INFO [launcher] Requesting remote config from server
+2025-11-17 16:49:15,974 INFO [launcher] Restoring from backup
+2025-11-17 16:49:15,974 INFO [launcher]   nothing to do
+2025-11-17 16:49:15,974 INFO [launcher] Clearing backup folder
+2025-11-17 16:49:15,974 INFO [launcher] Requesting file list from server
+2025-11-17 16:49:16,322 INFO [launcher] Gathering files that need to be updated
+2025-11-17 16:49:16,451 INFO [launcher]   nothing to update
+2025-11-17 16:49:16,509 INFO [launcher] Updater GUI App result: RunGame
+2025-11-17 16:49:16,612 INFO [launcher] IEngineAPI::Run
+2025-11-17 16:50:54,092 INFO [launcher] IEngineAPI::Run done
+2025-11-17 16:50:57,759 INFO [launcher] Exit

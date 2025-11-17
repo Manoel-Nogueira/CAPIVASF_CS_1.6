@@ -1,0 +1,35 @@
+"ServerBrowser"
+{
+	"gamelist"		"internet"
+	"Filters"
+	{
+		"FavoriteGames"
+		{
+			"ping"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+		}
+		"HistoryGames"
+		{
+			"ping"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+		}
+		"UniqueGames"
+		{
+			"ping"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+		}
+		"LanGames"
+		{
+			"ping"		"0"
+			"NoFull"		"0"
+			"NoEmpty"		"0"
+			"NoPassword"		"0"
+		}
+	}
+}

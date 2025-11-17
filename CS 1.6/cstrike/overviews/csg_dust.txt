@@ -1,0 +1,15 @@
+//overview desc. file for CSG_DUST.bsp
+//
+
+global
+{
+	ZOOM 1.00
+	ORIGIN -188.00 129.06 430.00
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/csg_dust.tga"
+	HEIGHT "-197"
+}

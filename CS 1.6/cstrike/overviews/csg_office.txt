@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.0
+	ORIGIN	140 	-536	106
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/csg_office.tga"
+	HEIGHT	-445
+}

@@ -1,0 +1,14 @@
+// overview description file for de_mirage.bsp
+
+global 
+{
+	ZOOM	1.72
+	ORIGIN	175.41	-107.14	592.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_mirage.bmp"
+	HEIGHT -128
+}
