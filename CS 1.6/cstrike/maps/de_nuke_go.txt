@@ -1,0 +1,23 @@
+GO: Nuke (Bomb/Defuse) - by Meowth
+
+Original creators:
+- Jo Bieg (original author)
+- Valve Corporation
+- Turtle Rock Studios
+- Hidden Path Entertainment
+
+Special Thanks (Bug reports):
+- papaschlange
+- TheBlackTuna
+- ThePrince2231206
+
+Modified skybox author:
+- The Mighty Pete (mp_plains)
+
+Counter-Terrorists: Prevent Terrorists from bombing the nuclear reactor. The reactor can be targeted from above and below. Team members must defuse any bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the C4 must destroy the nuclear missile.
+
+Other Notes: There are 2 bomb targets in the mission.
+
+(Press FIRE to continue)

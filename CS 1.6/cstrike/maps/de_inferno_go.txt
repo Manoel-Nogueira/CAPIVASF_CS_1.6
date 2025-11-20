@@ -1,0 +1,35 @@
+Inferno: Defusion
+
+***************** 2024 *******************
+Port for Counter-Strike 1.6 by DVDS
+Original map by Chris Auty (Barney)
+Textures & models by Valve Inc.
+******************************************
+
+On September 2016, the Separatist get word 
+of an undercover government trade deal 
+happening in a small city in Italy. 
+While the exact location is unknown, two 
+locations are filled with dirty gas explosives 
+to hi-jack the deal and recover the important 
+intel/items. On October 13th of the same year, 
+as the faction is set and ready to arm the 
+explosives, they are rather greeted with 
+SAS Agents verifying if the area is safe and 
+secure before the exchange, only improvisation 
+is left on their hands. The plan changes to 
+blowing up the trade locations with a highly 
+explosive C4, compromising the area and cancelling 
+the government plans, pushing them to re-set 
+the deal to another day. 
+
+Anti-terrorists: Prevent terrorists
+to destroy gas explosives.
+
+Terrorists: Blow up commercial places with
+a highly explosive C4.
+
+Other Notes: There are 2 bomb sites in this
+mission.
+
+(PRESS FIRE TO CONTINUE)               

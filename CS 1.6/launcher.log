@@ -104,3 +104,463 @@
 2025-11-17 16:49:16,612 INFO [launcher] IEngineAPI::Run
 2025-11-17 16:50:54,092 INFO [launcher] IEngineAPI::Run done
 2025-11-17 16:50:57,759 INFO [launcher] Exit
+2025-11-17 18:11:20,687 INFO [launcher] -----------------------------------------------
+2025-11-17 18:11:20,689 INFO [launcher] Start "cs.exe"
+2025-11-17 18:11:20,689 INFO [launcher] Version: 2.3.6
+2025-11-17 18:11:20,689 INFO [launcher] Finishing launcher update
+2025-11-17 18:11:20,689 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-17 18:11:20,690 INFO [launcher] Branch: csrevo
+2025-11-17 18:11:20,735 INFO [launcher] Start the Updater GUI App
+2025-11-17 18:11:20,742 INFO [launcher] Requesting remote config from server
+2025-11-17 18:11:21,260 INFO [launcher] Restoring from backup
+2025-11-17 18:11:21,260 INFO [launcher]   nothing to do
+2025-11-17 18:11:21,260 INFO [launcher] Clearing backup folder
+2025-11-17 18:11:21,260 INFO [launcher] Requesting file list from server
+2025-11-17 18:11:21,616 INFO [launcher] Gathering files that need to be updated
+2025-11-17 18:11:21,752 INFO [launcher]   nothing to update
+2025-11-17 18:11:21,826 INFO [launcher] Updater GUI App result: RunGame
+2025-11-17 18:11:21,995 INFO [launcher] IEngineAPI::Run
+2025-11-17 18:11:23,295 INFO [launcher] -----------------------------------------------
+2025-11-17 18:11:23,296 INFO [launcher] Start "cs.exe"
+2025-11-17 18:11:23,297 INFO [launcher] Version: 2.3.6
+2025-11-17 18:11:23,297 INFO [launcher] Finishing launcher update
+2025-11-17 18:11:23,297 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-17 18:11:23,297 INFO [launcher] Branch: csrevo
+2025-11-17 18:11:27,944 INFO [launcher] Exit
+2025-11-17 18:11:39,281 INFO [launcher] IEngineAPI::Run done
+2025-11-17 18:11:43,105 INFO [launcher] Exit
+2025-11-17 18:15:12,547 INFO [launcher] -----------------------------------------------
+2025-11-17 18:15:12,549 INFO [launcher] Start "cs.exe"
+2025-11-17 18:15:12,549 INFO [launcher] Version: 2.3.6
+2025-11-17 18:15:12,549 INFO [launcher] Finishing launcher update
+2025-11-17 18:15:12,549 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-17 18:15:12,550 INFO [launcher] Branch: csrevo
+2025-11-17 18:15:12,597 INFO [launcher] Start the Updater GUI App
+2025-11-17 18:15:12,634 INFO [launcher] Requesting remote config from server
+2025-11-17 18:15:12,999 INFO [launcher] Restoring from backup
+2025-11-17 18:15:12,999 INFO [launcher]   nothing to do
+2025-11-17 18:15:12,999 INFO [launcher] Clearing backup folder
+2025-11-17 18:15:12,999 INFO [launcher] Requesting file list from server
+2025-11-17 18:15:13,337 INFO [launcher] Gathering files that need to be updated
+2025-11-17 18:15:13,467 INFO [launcher]   nothing to update
+2025-11-17 18:15:13,523 INFO [launcher] Updater GUI App result: RunGame
+2025-11-17 18:15:13,627 INFO [launcher] IEngineAPI::Run
+2025-11-17 18:38:02,340 INFO [launcher] IEngineAPI::Run done
+2025-11-17 18:38:06,621 INFO [launcher] Exit
+2025-11-17 18:41:51,002 INFO [launcher] -----------------------------------------------
+2025-11-17 18:41:51,004 INFO [launcher] Start "cs.exe"
+2025-11-17 18:41:51,004 INFO [launcher] Version: 2.3.6
+2025-11-17 18:41:51,004 INFO [launcher] Finishing launcher update
+2025-11-17 18:41:51,005 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-17 18:41:51,006 INFO [launcher] Branch: csrevo
+2025-11-17 18:41:51,061 INFO [launcher] Start the Updater GUI App
+2025-11-17 18:41:51,113 INFO [launcher] Requesting remote config from server
+2025-11-17 18:41:51,635 INFO [launcher] Restoring from backup
+2025-11-17 18:41:51,635 INFO [launcher]   nothing to do
+2025-11-17 18:41:51,635 INFO [launcher] Clearing backup folder
+2025-11-17 18:41:51,635 INFO [launcher] Requesting file list from server
+2025-11-17 18:41:52,024 INFO [launcher] Gathering files that need to be updated
+2025-11-17 18:41:52,176 INFO [launcher]   nothing to update
+2025-11-17 18:41:52,232 INFO [launcher] Updater GUI App result: RunGame
+2025-11-17 18:41:52,355 INFO [launcher] IEngineAPI::Run
+2025-11-17 18:42:02,569 INFO [launcher] IEngineAPI::Run done
+2025-11-17 18:42:06,118 INFO [launcher] Exit
+2025-11-17 19:02:05,974 INFO [launcher] -----------------------------------------------
+2025-11-17 19:02:05,976 INFO [launcher] Start "cs.exe"
+2025-11-17 19:02:05,976 INFO [launcher] Version: 2.3.6
+2025-11-17 19:02:05,976 INFO [launcher] Finishing launcher update
+2025-11-17 19:02:05,976 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-17 19:02:05,977 INFO [launcher] Branch: csrevo
+2025-11-17 19:02:06,022 INFO [launcher] Start the Updater GUI App
+2025-11-17 19:02:06,059 INFO [launcher] Requesting remote config from server
+2025-11-17 19:02:06,730 INFO [launcher] Restoring from backup
+2025-11-17 19:02:06,730 INFO [launcher]   nothing to do
+2025-11-17 19:02:06,730 INFO [launcher] Clearing backup folder
+2025-11-17 19:02:06,730 INFO [launcher] Requesting file list from server
+2025-11-17 19:02:07,088 INFO [launcher] Gathering files that need to be updated
+2025-11-17 19:02:07,274 INFO [launcher]   nothing to update
+2025-11-17 19:02:07,322 INFO [launcher] Updater GUI App result: RunGame
+2025-11-17 19:02:07,424 INFO [launcher] IEngineAPI::Run
+2025-11-17 19:02:26,262 INFO [launcher] IEngineAPI::Run done
+2025-11-17 19:02:27,063 INFO [launcher] IEngineAPI::Run
+2025-11-17 19:02:44,418 INFO [launcher] IEngineAPI::Run done
+2025-11-17 19:02:45,261 INFO [launcher] IEngineAPI::Run
+2025-11-17 19:02:47,553 INFO [launcher] IEngineAPI::Run done
+2025-11-17 19:02:51,171 INFO [launcher] Exit
+2025-11-18 14:19:37,772 INFO [launcher] -----------------------------------------------
+2025-11-18 14:19:37,799 INFO [launcher] Start "cs.exe"
+2025-11-18 14:19:37,800 INFO [launcher] Version: 2.3.6
+2025-11-18 14:19:37,800 INFO [launcher] Finishing launcher update
+2025-11-18 14:19:37,801 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 14:19:37,881 INFO [launcher] Branch: csrevo
+2025-11-18 14:19:39,244 INFO [launcher] Start the Updater GUI App
+2025-11-18 14:19:39,276 INFO [launcher] Requesting remote config from server
+2025-11-18 14:19:41,229 INFO [launcher] Requesting remote config from server error: Remote config deserialization exception: tao::json::events::from_string:1:1: no valid JSON
+2025-11-18 14:19:41,229 INFO [launcher] Restoring from backup
+2025-11-18 14:19:41,229 INFO [launcher]   nothing to do
+2025-11-18 14:19:41,229 INFO [launcher] Clearing backup folder
+2025-11-18 14:19:41,229 INFO [launcher] Requesting file list from server
+2025-11-18 14:19:41,321 ERROR [launcher] Requesting file list error: Files list deserialization exception: tao::json::events::from_string:1:1: no valid JSON
+2025-11-18 14:19:53,150 INFO [launcher] Make the updater window visible
+2025-11-18 14:19:53,777 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 14:20:21,772 INFO [launcher] IEngineAPI::Run
+2025-11-18 14:20:29,868 INFO [launcher] -----------------------------------------------
+2025-11-18 14:20:29,869 INFO [launcher] Start "cs.exe"
+2025-11-18 14:20:29,869 INFO [launcher] Version: 2.3.6
+2025-11-18 14:20:29,870 INFO [launcher] Finishing launcher update
+2025-11-18 14:20:29,870 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 14:20:29,870 INFO [launcher] Branch: csrevo
+2025-11-18 14:20:36,370 INFO [launcher] Exit
+2025-11-18 14:33:09,332 INFO [launcher] IEngineAPI::Run done
+2025-11-18 14:33:13,785 INFO [launcher] Exit
+2025-11-18 16:55:46,965 INFO [launcher] -----------------------------------------------
+2025-11-18 16:55:47,027 INFO [launcher] Start "cs.exe"
+2025-11-18 16:55:47,027 INFO [launcher] Version: 2.3.6
+2025-11-18 16:55:47,027 INFO [launcher] Finishing launcher update
+2025-11-18 16:55:47,027 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 16:55:47,081 INFO [launcher] Branch: csrevo
+2025-11-18 16:55:47,724 INFO [launcher] Start the Updater GUI App
+2025-11-18 16:55:47,737 INFO [launcher] Requesting remote config from server
+2025-11-18 16:55:50,217 INFO [launcher] Restoring from backup
+2025-11-18 16:55:50,217 INFO [launcher]   nothing to do
+2025-11-18 16:55:50,217 INFO [launcher] Clearing backup folder
+2025-11-18 16:55:50,217 INFO [launcher] Requesting file list from server
+2025-11-18 16:55:50,566 INFO [launcher] Gathering files that need to be updated
+2025-11-18 16:55:57,847 INFO [launcher] Make the updater window visible
+2025-11-18 16:56:07,877 INFO [launcher] Interrupt the updater: state specific timeout
+2025-11-18 16:56:07,908 INFO [launcher] Interrupt the updater: state specific timeout
+2025-11-18 16:56:07,924 INFO [launcher]   nothing to update
+2025-11-18 16:56:08,049 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 16:56:10,744 INFO [launcher] IEngineAPI::Run
+2025-11-18 17:06:33,636 INFO [launcher] IEngineAPI::Run done
+2025-11-18 17:06:38,477 INFO [launcher] Exit
+2025-11-18 17:12:29,346 INFO [launcher] -----------------------------------------------
+2025-11-18 17:12:29,440 INFO [launcher] Start "cs.exe"
+2025-11-18 17:12:29,471 INFO [launcher] Version: 2.3.6
+2025-11-18 17:12:29,471 INFO [launcher] Finishing launcher update
+2025-11-18 17:12:29,471 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 17:12:29,518 INFO [launcher] Branch: csrevo
+2025-11-18 17:12:30,237 INFO [launcher] Start the Updater GUI App
+2025-11-18 17:12:30,331 INFO [launcher] Skip the updater: connection error in the previous run
+2025-11-18 17:12:36,081 INFO [launcher] Make the updater window visible
+2025-11-18 17:12:36,331 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 17:12:51,218 INFO [launcher] IEngineAPI::Run
+2025-11-18 17:52:24,715 INFO [launcher] IEngineAPI::Run done
+2025-11-18 19:08:59,173 INFO [launcher] -----------------------------------------------
+2025-11-18 19:08:59,192 INFO [launcher] Start "cs.exe"
+2025-11-18 19:08:59,193 INFO [launcher] Version: 2.3.6
+2025-11-18 19:08:59,195 INFO [launcher] Finishing launcher update
+2025-11-18 19:08:59,195 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 19:08:59,236 INFO [launcher] Branch: csrevo
+2025-11-18 19:08:59,656 INFO [launcher] Start the Updater GUI App
+2025-11-18 19:08:59,671 INFO [launcher] Skip the updater: connection error in the previous run
+2025-11-18 19:09:04,786 INFO [launcher] Make the updater window visible
+2025-11-18 19:09:05,009 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 19:09:09,943 INFO [launcher] IEngineAPI::Run
+2025-11-18 19:19:26,373 INFO [launcher] IEngineAPI::Run done
+2025-11-18 19:19:31,297 INFO [launcher] Exit
+2025-11-18 19:22:30,009 INFO [launcher] -----------------------------------------------
+2025-11-18 19:22:30,010 INFO [launcher] Start "cs.exe"
+2025-11-18 19:22:30,010 INFO [launcher] Version: 2.3.6
+2025-11-18 19:22:30,011 INFO [launcher] Finishing launcher update
+2025-11-18 19:22:30,011 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 19:22:30,011 INFO [launcher] Branch: csrevo
+2025-11-18 19:22:30,243 INFO [launcher] Start the Updater GUI App
+2025-11-18 19:22:30,294 INFO [launcher] Skip the updater: connection error in the previous run
+2025-11-18 19:22:30,465 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 19:22:30,617 INFO [launcher] IEngineAPI::Run
+2025-11-18 19:24:41,233 INFO [launcher] IEngineAPI::Run done
+2025-11-18 19:24:45,048 INFO [launcher] Exit
+2025-11-18 19:24:51,974 INFO [launcher] -----------------------------------------------
+2025-11-18 19:24:51,977 INFO [launcher] Start "cs.exe"
+2025-11-18 19:24:51,977 INFO [launcher] Version: 2.3.6
+2025-11-18 19:24:51,977 INFO [launcher] Finishing launcher update
+2025-11-18 19:24:51,977 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 19:24:51,978 INFO [launcher] Branch: csrevo
+2025-11-18 19:24:52,032 INFO [launcher] Start the Updater GUI App
+2025-11-18 19:24:52,126 INFO [launcher] Skip the updater: connection error in the previous run
+2025-11-18 19:24:52,233 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 19:24:52,361 INFO [launcher] IEngineAPI::Run
+2025-11-18 19:25:44,204 INFO [launcher] IEngineAPI::Run done
+2025-11-18 19:25:49,054 INFO [launcher] Exit
+2025-11-18 19:26:09,094 INFO [launcher] -----------------------------------------------
+2025-11-18 19:26:09,096 INFO [launcher] Start "cs.exe"
+2025-11-18 19:26:09,096 INFO [launcher] Version: 2.3.6
+2025-11-18 19:26:09,097 INFO [launcher] Finishing launcher update
+2025-11-18 19:26:09,097 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 19:26:09,097 INFO [launcher] Branch: csrevo
+2025-11-18 19:26:09,154 INFO [launcher] Start the Updater GUI App
+2025-11-18 19:26:09,202 INFO [launcher] Skip the updater: connection error in the previous run
+2025-11-18 19:26:09,293 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 19:26:09,429 INFO [launcher] IEngineAPI::Run
+2025-11-18 19:26:38,984 INFO [launcher] IEngineAPI::Run done
+2025-11-18 19:26:42,686 INFO [launcher] Exit
+2025-11-18 19:27:04,394 INFO [launcher] -----------------------------------------------
+2025-11-18 19:27:04,396 INFO [launcher] Start "cs.exe"
+2025-11-18 19:27:04,396 INFO [launcher] Version: 2.3.6
+2025-11-18 19:27:04,396 INFO [launcher] Finishing launcher update
+2025-11-18 19:27:04,396 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 19:27:04,397 INFO [launcher] Branch: csrevo
+2025-11-18 19:27:04,457 INFO [launcher] Start the Updater GUI App
+2025-11-18 19:27:04,510 INFO [launcher] Skip the updater: connection error in the previous run
+2025-11-18 19:27:04,588 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 19:27:04,719 INFO [launcher] IEngineAPI::Run
+2025-11-18 19:36:21,791 INFO [launcher] IEngineAPI::Run done
+2025-11-18 19:36:25,046 INFO [launcher] Exit
+2025-11-18 19:40:37,030 INFO [launcher] -----------------------------------------------
+2025-11-18 19:40:37,031 INFO [launcher] Start "cs.exe"
+2025-11-18 19:40:37,031 INFO [launcher] Version: 2.3.6
+2025-11-18 19:40:37,032 INFO [launcher] Finishing launcher update
+2025-11-18 19:40:37,032 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 19:40:37,032 INFO [launcher] Branch: csrevo
+2025-11-18 19:40:37,104 INFO [launcher] Start the Updater GUI App
+2025-11-18 19:40:37,162 INFO [launcher] Skip the updater: connection error in the previous run
+2025-11-18 19:40:37,420 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 19:40:37,550 INFO [launcher] IEngineAPI::Run
+2025-11-18 19:41:57,810 INFO [launcher] IEngineAPI::Run done
+2025-11-18 19:42:01,340 INFO [launcher] Exit
+2025-11-18 19:44:38,037 INFO [launcher] -----------------------------------------------
+2025-11-18 19:44:38,039 INFO [launcher] Start "cs.exe"
+2025-11-18 19:44:38,039 INFO [launcher] Version: 2.3.6
+2025-11-18 19:44:38,040 INFO [launcher] Finishing launcher update
+2025-11-18 19:44:38,040 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 19:44:38,040 INFO [launcher] Branch: csrevo
+2025-11-18 19:44:38,120 INFO [launcher] Start the Updater GUI App
+2025-11-18 19:44:38,168 INFO [launcher] Skip the updater: connection error in the previous run
+2025-11-18 19:44:38,262 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 19:44:38,387 INFO [launcher] IEngineAPI::Run
+2025-11-18 19:46:02,023 INFO [launcher] IEngineAPI::Run done
+2025-11-18 19:46:05,505 INFO [launcher] Exit
+2025-11-18 19:55:44,894 INFO [launcher] -----------------------------------------------
+2025-11-18 19:55:44,896 INFO [launcher] Start "cs.exe"
+2025-11-18 19:55:44,896 INFO [launcher] Version: 2.3.6
+2025-11-18 19:55:44,897 INFO [launcher] Finishing launcher update
+2025-11-18 19:55:44,897 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 19:55:44,898 INFO [launcher] Branch: csrevo
+2025-11-18 19:55:44,963 INFO [launcher] Start the Updater GUI App
+2025-11-18 19:55:45,047 INFO [launcher] Skip the updater: connection error in the previous run
+2025-11-18 19:55:45,290 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 19:55:45,426 INFO [launcher] IEngineAPI::Run
+2025-11-18 19:57:57,779 INFO [launcher] IEngineAPI::Run done
+2025-11-18 19:58:01,556 INFO [launcher] Exit
+2025-11-18 20:09:21,813 INFO [launcher] -----------------------------------------------
+2025-11-18 20:09:21,816 INFO [launcher] Start "cs.exe"
+2025-11-18 20:09:21,816 INFO [launcher] Version: 2.3.6
+2025-11-18 20:09:21,817 INFO [launcher] Finishing launcher update
+2025-11-18 20:09:21,817 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-18 20:09:21,818 INFO [launcher] Branch: csrevo
+2025-11-18 20:09:22,314 INFO [launcher] Start the Updater GUI App
+2025-11-18 20:09:22,396 INFO [launcher] Skip the updater: connection error in the previous run
+2025-11-18 20:09:22,713 INFO [launcher] Updater GUI App result: RunGame
+2025-11-18 20:09:23,090 INFO [launcher] IEngineAPI::Run
+2025-11-18 21:25:55,409 INFO [launcher] IEngineAPI::Run done
+2025-11-18 21:25:59,582 INFO [launcher] Exit
+2025-11-19 08:10:42,935 INFO [launcher] -----------------------------------------------
+2025-11-19 08:10:42,957 INFO [launcher] Start "cs.exe"
+2025-11-19 08:10:42,958 INFO [launcher] Version: 2.3.6
+2025-11-19 08:10:42,959 INFO [launcher] Finishing launcher update
+2025-11-19 08:10:42,959 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-19 08:10:43,060 INFO [launcher] Branch: csrevo
+2025-11-19 08:10:43,495 INFO [launcher] Start the Updater GUI App
+2025-11-19 08:10:43,530 INFO [launcher] Requesting remote config from server
+2025-11-19 08:10:45,343 INFO [launcher] Restoring from backup
+2025-11-19 08:10:45,343 INFO [launcher]   nothing to do
+2025-11-19 08:10:45,344 INFO [launcher] Clearing backup folder
+2025-11-19 08:10:45,344 INFO [launcher] Requesting file list from server
+2025-11-19 08:10:45,642 INFO [launcher] Gathering files that need to be updated
+2025-11-19 08:10:55,999 INFO [launcher] Make the updater window visible
+2025-11-19 08:10:58,190 INFO [launcher]   nothing to update
+2025-11-19 08:10:58,337 INFO [launcher] Updater GUI App result: RunGame
+2025-11-19 08:11:01,052 INFO [launcher] IEngineAPI::Run
+2025-11-19 08:16:07,942 INFO [launcher] IEngineAPI::Run done
+2025-11-19 08:16:11,677 INFO [launcher] Exit
+2025-11-19 11:56:24,734 INFO [launcher] -----------------------------------------------
+2025-11-19 11:56:24,787 INFO [launcher] Start "cs.exe"
+2025-11-19 11:56:24,814 INFO [launcher] Version: 2.3.6
+2025-11-19 11:56:24,847 INFO [launcher] Finishing launcher update
+2025-11-19 11:56:24,848 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-19 11:56:24,966 INFO [launcher] Branch: csrevo
+2025-11-19 11:56:26,293 INFO [launcher] Start the Updater GUI App
+2025-11-19 11:56:26,371 INFO [launcher] Requesting remote config from server
+2025-11-19 11:56:28,974 INFO [launcher] Restoring from backup
+2025-11-19 11:56:28,974 INFO [launcher]   nothing to do
+2025-11-19 11:56:28,974 INFO [launcher] Clearing backup folder
+2025-11-19 11:56:28,974 INFO [launcher] Requesting file list from server
+2025-11-19 11:56:29,318 INFO [launcher] Gathering files that need to be updated
+2025-11-19 11:56:41,478 INFO [launcher] Make the updater window visible
+2025-11-19 11:56:49,669 INFO [launcher]   nothing to update
+2025-11-19 11:56:49,836 INFO [launcher] Updater GUI App result: RunGame
+2025-11-19 11:56:52,877 INFO [launcher] IEngineAPI::Run
+2025-11-19 12:18:14,118 INFO [launcher] -----------------------------------------------
+2025-11-19 12:18:14,121 INFO [launcher] Start "cs.exe"
+2025-11-19 12:18:14,121 INFO [launcher] Version: 2.3.6
+2025-11-19 12:18:14,121 INFO [launcher] Finishing launcher update
+2025-11-19 12:18:14,121 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-19 12:18:14,136 INFO [launcher] Branch: csrevo
+2025-11-19 12:18:19,750 INFO [launcher] Exit
+2025-11-19 13:26:49,431 INFO [launcher] IEngineAPI::Run done
+2025-11-19 13:26:52,897 INFO [launcher] Exit
+2025-11-19 15:25:08,523 INFO [launcher] -----------------------------------------------
+2025-11-19 15:25:08,540 INFO [launcher] Start "cs.exe"
+2025-11-19 15:25:08,540 INFO [launcher] Version: 2.3.6
+2025-11-19 15:25:08,541 INFO [launcher] Finishing launcher update
+2025-11-19 15:25:08,541 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-19 15:25:08,563 INFO [launcher] Branch: csrevo
+2025-11-19 15:25:09,085 INFO [launcher] Start the Updater GUI App
+2025-11-19 15:25:09,179 INFO [launcher] Requesting remote config from server
+2025-11-19 15:25:10,608 INFO [launcher] Restoring from backup
+2025-11-19 15:25:10,608 INFO [launcher]   nothing to do
+2025-11-19 15:25:10,608 INFO [launcher] Clearing backup folder
+2025-11-19 15:25:10,608 INFO [launcher] Requesting file list from server
+2025-11-19 15:25:11,070 INFO [launcher] Gathering files that need to be updated
+2025-11-19 15:25:17,061 INFO [launcher] Make the updater window visible
+2025-11-19 15:25:24,377 INFO [launcher]   nothing to update
+2025-11-19 15:25:24,530 INFO [launcher] Updater GUI App result: RunGame
+2025-11-19 15:25:26,582 INFO [launcher] IEngineAPI::Run
+2025-11-19 21:26:57,975 INFO [launcher] IEngineAPI::Run done
+2025-11-20 13:55:10,360 INFO [launcher] -----------------------------------------------
+2025-11-20 13:55:10,384 INFO [launcher] Start "cs.exe"
+2025-11-20 13:55:10,385 INFO [launcher] Version: 2.3.6
+2025-11-20 13:55:10,386 INFO [launcher] Finishing launcher update
+2025-11-20 13:55:10,386 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-20 13:55:10,430 INFO [launcher] Branch: csrevo
+2025-11-20 13:55:10,752 INFO [launcher] Start the Updater GUI App
+2025-11-20 13:55:10,790 INFO [launcher] Requesting remote config from server
+2025-11-20 13:55:12,159 INFO [launcher] Restoring from backup
+2025-11-20 13:55:12,159 INFO [launcher]   nothing to do
+2025-11-20 13:55:12,159 INFO [launcher] Clearing backup folder
+2025-11-20 13:55:12,159 INFO [launcher] Requesting file list from server
+2025-11-20 13:55:12,530 INFO [launcher] Gathering files that need to be updated
+2025-11-20 13:55:17,103 INFO [launcher] Make the updater window visible
+2025-11-20 13:55:19,095 INFO [launcher]   nothing to update
+2025-11-20 13:55:19,196 INFO [launcher] Updater GUI App result: RunGame
+2025-11-20 13:55:20,674 INFO [launcher] IEngineAPI::Run
+2025-11-20 15:56:53,661 INFO [launcher] IEngineAPI::Run done
+2025-11-20 15:56:57,419 INFO [launcher] Exit
+2025-11-20 17:03:53,500 INFO [launcher] -----------------------------------------------
+2025-11-20 17:03:53,501 INFO [launcher] Start "cs.exe"
+2025-11-20 17:03:53,501 INFO [launcher] Version: 2.3.6
+2025-11-20 17:03:53,502 INFO [launcher] Finishing launcher update
+2025-11-20 17:03:53,502 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-20 17:03:53,504 INFO [launcher] Branch: csrevo
+2025-11-20 17:03:53,611 INFO [launcher] Start the Updater GUI App
+2025-11-20 17:03:53,650 INFO [launcher] Requesting remote config from server
+2025-11-20 17:03:53,994 INFO [launcher] Restoring from backup
+2025-11-20 17:03:53,994 INFO [launcher]   nothing to do
+2025-11-20 17:03:53,994 INFO [launcher] Clearing backup folder
+2025-11-20 17:03:53,994 INFO [launcher] Requesting file list from server
+2025-11-20 17:03:54,340 INFO [launcher] Gathering files that need to be updated
+2025-11-20 17:03:55,622 INFO [launcher] Make the updater window visible
+2025-11-20 17:03:55,938 INFO [launcher]   nothing to update
+2025-11-20 17:03:56,009 INFO [launcher] Updater GUI App result: RunGame
+2025-11-20 17:03:57,270 INFO [launcher] IEngineAPI::Run
+2025-11-20 17:57:14,027 INFO [launcher] IEngineAPI::Run done
+2025-11-20 17:57:17,303 INFO [launcher] Exit
+2025-11-20 18:03:07,906 INFO [launcher] -----------------------------------------------
+2025-11-20 18:03:07,907 INFO [launcher] Start "cs.exe"
+2025-11-20 18:03:07,907 INFO [launcher] Version: 2.3.6
+2025-11-20 18:03:07,908 INFO [launcher] Finishing launcher update
+2025-11-20 18:03:07,908 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-20 18:03:07,908 INFO [launcher] Branch: csrevo
+2025-11-20 18:03:07,954 INFO [launcher] Start the Updater GUI App
+2025-11-20 18:03:07,996 INFO [launcher] Requesting remote config from server
+2025-11-20 18:03:08,331 INFO [launcher] Restoring from backup
+2025-11-20 18:03:08,331 INFO [launcher]   nothing to do
+2025-11-20 18:03:08,331 INFO [launcher] Clearing backup folder
+2025-11-20 18:03:08,331 INFO [launcher] Requesting file list from server
+2025-11-20 18:03:08,793 INFO [launcher] Gathering files that need to be updated
+2025-11-20 18:03:09,028 INFO [launcher]   files to update:
+2025-11-20 18:03:09,028 INFO [launcher]   cstrike\gfx\shell\kb_act.lst
+2025-11-20 18:03:09,028 INFO [launcher]   cstrike\gfx\shell\kb_def.lst
+2025-11-20 18:03:09,028 INFO [launcher]   cstrike\resource\CreateMultiplayerGameServerPage.res
+2025-11-20 18:03:09,028 INFO [launcher]   cstrike\resource\OptionsSubMultiplayer.res
+2025-11-20 18:03:09,028 INFO [launcher]   cstrike\resource\cstrike_english.txt
+2025-11-20 18:03:09,028 INFO [launcher] Creating a backup
+2025-11-20 18:03:09,040 INFO [launcher] Opening files to install
+2025-11-20 18:03:09,042 INFO [launcher] Downloading an update
+2025-11-20 18:03:09,077 INFO [launcher] Make the updater window visible
+2025-11-20 18:03:10,619 INFO [launcher] Installing an update
+2025-11-20 18:03:10,621 INFO [launcher] Clearing backup folder
+2025-11-20 18:03:10,684 INFO [launcher] Updater GUI App result: RunGame
+2025-11-20 18:03:10,795 INFO [launcher] IEngineAPI::Run
+2025-11-20 18:04:00,945 INFO [launcher] IEngineAPI::Run done
+2025-11-20 18:04:04,849 INFO [launcher] Exit
+2025-11-20 18:05:18,778 INFO [launcher] -----------------------------------------------
+2025-11-20 18:05:18,781 INFO [launcher] Start "cs.exe"
+2025-11-20 18:05:18,782 INFO [launcher] Version: 2.3.6
+2025-11-20 18:05:18,782 INFO [launcher] Finishing launcher update
+2025-11-20 18:05:18,782 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-20 18:05:18,783 INFO [launcher] Branch: csrevo
+2025-11-20 18:05:18,843 INFO [launcher] Start the Updater GUI App
+2025-11-20 18:05:18,896 INFO [launcher] Requesting remote config from server
+2025-11-20 18:05:19,364 INFO [launcher] Restoring from backup
+2025-11-20 18:05:19,364 INFO [launcher]   nothing to do
+2025-11-20 18:05:19,364 INFO [launcher] Clearing backup folder
+2025-11-20 18:05:19,364 INFO [launcher] Requesting file list from server
+2025-11-20 18:05:19,735 INFO [launcher] Gathering files that need to be updated
+2025-11-20 18:05:20,140 INFO [launcher]   nothing to update
+2025-11-20 18:05:20,246 INFO [launcher] Updater GUI App result: RunGame
+2025-11-20 18:05:20,432 INFO [launcher] IEngineAPI::Run
+2025-11-20 18:06:03,869 INFO [launcher] IEngineAPI::Run done
+2025-11-20 18:06:08,953 INFO [launcher] Exit
+2025-11-20 18:18:39,418 INFO [launcher] -----------------------------------------------
+2025-11-20 18:18:39,420 INFO [launcher] Start "cs.exe"
+2025-11-20 18:18:39,420 INFO [launcher] Version: 2.3.6
+2025-11-20 18:18:39,420 INFO [launcher] Finishing launcher update
+2025-11-20 18:18:39,420 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-20 18:18:39,421 INFO [launcher] Branch: csrevo
+2025-11-20 18:18:39,453 INFO [launcher] Start the Updater GUI App
+2025-11-20 18:18:39,504 INFO [launcher] Requesting remote config from server
+2025-11-20 18:18:39,858 INFO [launcher] Restoring from backup
+2025-11-20 18:18:39,858 INFO [launcher]   nothing to do
+2025-11-20 18:18:39,858 INFO [launcher] Clearing backup folder
+2025-11-20 18:18:39,858 INFO [launcher] Requesting file list from server
+2025-11-20 18:18:40,311 INFO [launcher] Gathering files that need to be updated
+2025-11-20 18:18:40,437 INFO [launcher]   nothing to update
+2025-11-20 18:18:40,492 INFO [launcher] Updater GUI App result: RunGame
+2025-11-20 18:18:40,713 INFO [launcher] IEngineAPI::Run
+2025-11-20 18:23:38,481 INFO [launcher] IEngineAPI::Run done
+2025-11-20 18:23:42,162 INFO [launcher] Exit
+2025-11-20 18:28:29,093 INFO [launcher] -----------------------------------------------
+2025-11-20 18:28:29,093 INFO [launcher] Start "cs.exe"
+2025-11-20 18:28:29,093 INFO [launcher] Version: 2.3.6
+2025-11-20 18:28:29,093 INFO [launcher] Finishing launcher update
+2025-11-20 18:28:29,093 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-20 18:28:29,093 INFO [launcher] Branch: csrevo
+2025-11-20 18:28:29,140 INFO [launcher] Start the Updater GUI App
+2025-11-20 18:28:29,171 INFO [launcher] Requesting remote config from server
+2025-11-20 18:28:29,577 INFO [launcher] Restoring from backup
+2025-11-20 18:28:29,577 INFO [launcher]   nothing to do
+2025-11-20 18:28:29,577 INFO [launcher] Clearing backup folder
+2025-11-20 18:28:29,577 INFO [launcher] Requesting file list from server
+2025-11-20 18:28:30,031 INFO [launcher] Gathering files that need to be updated
+2025-11-20 18:28:30,280 INFO [launcher]   nothing to update
+2025-11-20 18:28:30,342 INFO [launcher] Updater GUI App result: RunGame
+2025-11-20 18:28:30,450 INFO [launcher] IEngineAPI::Run
+2025-11-20 18:30:43,821 INFO [launcher] IEngineAPI::Run done
+2025-11-20 18:30:46,736 INFO [launcher] -----------------------------------------------
+2025-11-20 18:30:46,737 INFO [launcher] Start "cs.exe"
+2025-11-20 18:30:46,737 INFO [launcher] Version: 2.3.6
+2025-11-20 18:30:46,738 INFO [launcher] Finishing launcher update
+2025-11-20 18:30:46,738 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-20 18:30:46,738 INFO [launcher] Branch: csrevo
+2025-11-20 18:30:47,375 INFO [launcher] Exit
+2025-11-20 18:30:49,624 INFO [launcher] -----------------------------------------------
+2025-11-20 18:30:49,624 INFO [launcher] Start "cs.exe"
+2025-11-20 18:30:49,624 INFO [launcher] Version: 2.3.6
+2025-11-20 18:30:49,624 INFO [launcher] Finishing launcher update
+2025-11-20 18:30:49,624 INFO [launcher] Finishing launcher update: nothing to do
+2025-11-20 18:30:49,624 INFO [launcher] Branch: csrevo
+2025-11-20 18:30:49,680 INFO [launcher] Start the Updater GUI App
+2025-11-20 18:30:49,703 INFO [launcher] Requesting remote config from server
+2025-11-20 18:30:50,171 INFO [launcher] Restoring from backup
+2025-11-20 18:30:50,171 INFO [launcher]   nothing to do
+2025-11-20 18:30:50,171 INFO [launcher] Clearing backup folder
+2025-11-20 18:30:50,171 INFO [launcher] Requesting file list from server
+2025-11-20 18:30:50,639 INFO [launcher] Gathering files that need to be updated
+2025-11-20 18:30:50,874 INFO [launcher]   nothing to update
+2025-11-20 18:30:50,920 INFO [launcher] Updater GUI App result: RunGame
+2025-11-20 18:30:51,025 INFO [launcher] IEngineAPI::Run
+2025-11-20 18:30:51,808 INFO [launcher] Exit
+2025-11-20 18:32:27,744 INFO [launcher] IEngineAPI::Run done
+2025-11-20 18:32:32,354 INFO [launcher] Exit
