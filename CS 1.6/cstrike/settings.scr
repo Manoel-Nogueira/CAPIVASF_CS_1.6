@@ -1,5 +1,5 @@
 // // Half-Life Server Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Thu Nov 20 06:32:21 PM
+// File generated:  Thu Nov 20 06:39:50 PM
 //
 //
 // Cvar	-	Setting
@@ -75,7 +75,7 @@ DESCRIPTION SERVER_OPTIONS
 	{
 		"#Cstrike_StartMoney"
 		{ NUMBER 800 16000 }
-		{ "800" }
+		{ "16000" }
 	}
 
 	"mp_footsteps"
